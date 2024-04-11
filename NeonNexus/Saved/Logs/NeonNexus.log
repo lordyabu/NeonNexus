@@ -6194,3 +6194,22 @@ UnknownFunction []
 [2024.04.11-03.59.32:180][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.11-03.59.32:184][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2024.04.11-03.59.32:235][218]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.04.11-04.01.19:687][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.11-04.01.19:696][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-04.01.19:743][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Knight" FILE="C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/Knight.uasset" SILENT=true
+[2024.04.11-04.01.19:792][663]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/Knight
+[2024.04.11-04.01.19:793][663]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/Knight1C35CAB94D170B3DDC9A2384C4ECEE1E.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/Knight.uasset'
+[2024.04.11-04.01.19:795][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/ABP_Knight" FILE="C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/ABP_Knight.uasset" SILENT=true
+[2024.04.11-04.01.19:828][663]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/ABP_Knight
+[2024.04.11-04.01.19:829][663]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/ABP_KnightAEADD21F4EECB65187BA20A61DEFB1DA.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/ABP_Knight.uasset'
+[2024.04.11-04.01.19:831][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Dash" FILE="C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/Input/Actions/IA_Dash.uasset" SILENT=true
+[2024.04.11-04.01.19:832][663]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Dash
+[2024.04.11-04.01.19:832][663]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/IA_DashD4F92CBF4AE9A7903075C493BA64BD7F.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/Input/Actions/IA_Dash.uasset'
+[2024.04.11-04.01.19:838][663]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/AnimSequences/Dash
+[2024.04.11-04.01.19:839][663]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/DashCD3AFC3E4D8FCCB06455668AA3894032.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/AnimSequences/Dash.uasset'
+[2024.04.11-04.01.19:852][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1.56 sec)
+[2024.04.11-04.01.19:864][663]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-04.01.19:864][663]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SideScrollerBP/Blueprints/Knight.Knight
+[2024.04.11-04.01.19:864][663]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/SideScrollerBP/Blueprints/ABP_Knight.ABP_Knight
+[2024.04.11-04.01.19:864][663]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/Actions/IA_Dash.IA_Dash
+[2024.04.11-04.01.19:864][663]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/SideScrollerBP/Blueprints/AnimSequences/Dash.Dash
