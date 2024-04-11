@@ -6215,3 +6215,13 @@ UnknownFunction []
 [2024.04.11-04.01.19:864][663]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/SideScrollerBP/Blueprints/AnimSequences/Dash.Dash
 [2024.04.11-04.06.59:782][975]LogAssetTools: Warning: Failed to import 'C:\Users\rhino\Downloads\Pixel Health Bar.rar'. Unknown extension 'rar'.
 [2024.04.11-04.15.17:718][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.11-04.27.12:382][433]BlueprintLog: New page: Compile Knight
+[2024.04.11-04.27.12:469][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.11-04.27.17:385][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.11-04.27.17:398][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-04.27.17:446][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Knight" FILE="C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/Knight.uasset" SILENT=true
+[2024.04.11-04.27.17:492][811]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/Knight
+[2024.04.11-04.27.17:493][811]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/KnightE18AF6104F2F95D00843CFB169EBEC49.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/Knight.uasset'
+[2024.04.11-04.27.17:506][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.67 sec)
+[2024.04.11-04.27.17:512][811]AssetCheck: New page: Asset Save: Knight
+[2024.04.11-04.27.17:512][811]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SideScrollerBP/Blueprints/Knight.Knight
