@@ -2341,3 +2341,43 @@ UnknownFunction []
 [2024.04.11-02.29.00:246][969]LogFileHelpers: Auto-saving content packages took 0.092
 [2024.04.11-02.30.01:298][ 58]BlueprintLog: New page: Compile Knight
 [2024.04.11-02.30.01:384][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.11-02.33.42:763][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-02.33.42:807][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/ABP_Knight" FILE="C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/ABP_Knight.uasset" SILENT=true
+[2024.04.11-02.33.42:840][163]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/ABP_Knight
+[2024.04.11-02.33.42:852][163]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/ABP_KnightB67A219D40A5359B019BE69B3298E10D.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/ABP_Knight.uasset'
+[2024.04.11-02.33.42:875][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 372 ms)
+[2024.04.11-02.33.42:877][163]AssetCheck: New page: Asset Save: ABP_Knight
+[2024.04.11-02.33.42:877][163]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/SideScrollerBP/Blueprints/ABP_Knight.ABP_Knight
+[2024.04.11-02.33.44:609][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-02.33.44:635][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/AS_Knight" FILE="C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/AS_Knight.uasset" SILENT=true
+[2024.04.11-02.33.44:636][344]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/AS_Knight
+[2024.04.11-02.33.44:637][344]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/AS_Knight3229FA7943408F48F29BA2A5208D089E.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/AS_Knight.uasset'
+[2024.04.11-02.33.44:649][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 412 ms)
+[2024.04.11-02.33.44:653][344]AssetCheck: New page: Asset Save: AS_Knight
+[2024.04.11-02.33.44:653][344]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/SideScrollerBP/Blueprints/AS_Knight.AS_Knight
+[2024.04.11-02.33.45:802][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-02.33.45:836][468]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/NotifyStates/AttackState
+[2024.04.11-02.33.45:848][468]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/AttackStateBD8C6D454ABD3D978A90818851670F8E.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/NotifyStates/AttackState.uasset'
+[2024.04.11-02.33.45:861][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 470 ms)
+[2024.04.11-02.33.45:862][468]AssetCheck: New page: Asset Save: AttackState
+[2024.04.11-02.33.45:862][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SideScrollerBP/Blueprints/NotifyStates/AttackState.AttackState
+[2024.04.11-02.33.46:829][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-02.33.46:866][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Knight" FILE="C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/Knight.uasset" SILENT=true
+[2024.04.11-02.33.46:907][576]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/Knight
+[2024.04.11-02.33.46:908][576]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/Knight316AF8EA4CBDF511262871860705C25C.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/Knight.uasset'
+[2024.04.11-02.33.46:920][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 561 ms)
+[2024.04.11-02.33.46:928][576]AssetCheck: New page: Asset Save: Knight
+[2024.04.11-02.33.46:928][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SideScrollerBP/Blueprints/Knight.Knight
+[2024.04.11-02.33.53:765][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.04.11-02.33.53:776][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-02.33.53:813][148]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/AnimSequences/Attack
+[2024.04.11-02.33.53:814][148]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/Attack08CEDB884F2404FC3E7CACA98131865A.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/AnimSequences/Attack.uasset'
+[2024.04.11-02.33.53:817][148]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/AnimSequences/TakeHit
+[2024.04.11-02.33.53:818][148]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/TakeHit71345CE545ABA9D94675F89937545CC1.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/AnimSequences/TakeHit.uasset'
+[2024.04.11-02.33.53:821][148]LogSavePackage: Moving output files for package: /Game/SideScrollerBP/Blueprints/AnimSequences/Death
+[2024.04.11-02.33.53:821][148]LogSavePackage: Moving 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Saved/Death6386E3E24123AD4CEAF1E48E0D6BA800.tmp' to 'C:/Users/rhino/OneDrive/Documents/CS415/NeonNexus/NeonNexus/Content/SideScrollerBP/Blueprints/AnimSequences/Death.uasset'
+[2024.04.11-02.33.53:832][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 617 ms)
+[2024.04.11-02.33.53:843][148]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-02.33.53:843][148]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/SideScrollerBP/Blueprints/AnimSequences/Attack.Attack
+[2024.04.11-02.33.53:843][148]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/SideScrollerBP/Blueprints/AnimSequences/TakeHit.TakeHit
+[2024.04.11-02.33.53:843][148]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/SideScrollerBP/Blueprints/AnimSequences/Death.Death
