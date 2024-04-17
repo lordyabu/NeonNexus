@@ -5797,3 +5797,188 @@ UnknownFunction []
 [2024.04.17-20.40.58:125][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
 [2024.04.17-20.40.58:130][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2024.04.17-20.40.58:237][919]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.04.17-20.44.14:732][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-20.44.14:761][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy3" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy3.uasset" SILENT=true
+[2024.04.17-20.44.14:772][221]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy3
+[2024.04.17-20.44.14:773][221]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/BP_Enemy36652B39A4ECF193521236286A728CEA1.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy3.uasset'
+[2024.04.17-20.44.14:805][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 920 ms)
+[2024.04.17-20.44.14:806][221]AssetCheck: New page: Asset Save: BP_Enemy3
+[2024.04.17-20.44.14:806][221]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Enemy3.BP_Enemy3
+[2024.04.17-20.44.16:318][342]BlueprintLog: New page: Compile BP_Enemy3
+[2024.04.17-20.44.16:364][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.17-20.44.16:734][363]BlueprintLog: New page: Compile BP_Enemy3
+[2024.04.17-20.44.16:782][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.17-20.44.46:714][212]LogEditorTransaction: Undo Move Node
+[2024.04.17-20.44.47:460][249]LogEditorTransaction: Undo Move Nodes
+[2024.04.17-20.46.04:000][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.17-20.46.04:003][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2_Tile' took 0.016
+[2024.04.17-20.46.04:004][748]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BP_Enemy3] ([2] browsable assets)...
+[2024.04.17-20.46.04:004][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy3]
+[2024.04.17-20.46.04:004][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy3" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/Autosaves/Game/Enemies/BP_Enemy3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.04.17-20.46.04:015][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/BP_Enemy3_Auto1
+[2024.04.17-20.46.04:015][748]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/BP_Enemy3_Auto1518CA4554FBB66E74696A896B8EAE7CA.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/Autosaves/Game/Enemies/BP_Enemy3_Auto1.uasset'
+[2024.04.17-20.46.04:015][748]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.04.17-20.50.06:323][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-20.50.06:354][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy3" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy3.uasset" SILENT=true
+[2024.04.17-20.50.06:368][748]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy3
+[2024.04.17-20.50.06:368][748]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/BP_Enemy34019E7E94758BB2B2D499AB5E3EFF0E7.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy3.uasset'
+[2024.04.17-20.50.06:395][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 993 ms)
+[2024.04.17-20.50.06:397][748]AssetCheck: New page: Asset Save: BP_Enemy3
+[2024.04.17-20.50.06:397][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Enemy3.BP_Enemy3
+[2024.04.17-20.50.07:626][855]BlueprintLog: New page: Compile BP_Enemy3
+[2024.04.17-20.50.07:668][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.17-20.50.25:263][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-20.50.25:291][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy3" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy3.uasset" SILENT=true
+[2024.04.17-20.50.25:305][577]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy3
+[2024.04.17-20.50.25:306][577]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/BP_Enemy32FF5CBBD4B2D4522CB477C8D7FBB58E9.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy3.uasset'
+[2024.04.17-20.50.25:318][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.04 sec)
+[2024.04.17-20.50.25:319][577]AssetCheck: New page: Asset Save: BP_Enemy3
+[2024.04.17-20.50.25:319][577]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Enemy3.BP_Enemy3
+[2024.04.17-20.50.26:032][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-20.50.26:062][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_Tile" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Levels/Level2_Tile.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.17-20.50.26:096][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.17-20.50.26:116][639]LogSavePackage: Moving output files for package: /Game/Levels/Level2_Tile
+[2024.04.17-20.50.26:117][639]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/Level2_Tile8124258E4FF380F32F36BE9B98C3A6A4.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Levels/Level2_Tile.umap'
+[2024.04.17-20.50.26:122][639]LogFileHelpers: Saving map 'Level2_Tile' took 0.061
+[2024.04.17-20.50.26:130][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.14 sec)
+[2024.04.17-20.50.26:131][639]AssetCheck: New page: Asset Save: Level2_Tile
+[2024.04.17-20.50.26:131][639]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level2_Tile.Level2_Tile
+[2024.04.17-20.52.51:796][687]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.17-20.52.58:469][296]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.17-20.54.02:707][611]BlueprintLog: New page: Compile BP_Enemy1
+[2024.04.17-20.54.02:740][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.17-20.54.04:085][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-20.54.04:117][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy1" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy1.uasset" SILENT=true
+[2024.04.17-20.54.04:126][725]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy1
+[2024.04.17-20.54.04:127][725]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/BP_Enemy1AAB11FE34828A49B7525B8BCBD9B9D31.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/BP_Enemy1.uasset'
+[2024.04.17-20.54.04:138][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.19 sec)
+[2024.04.17-20.54.04:139][725]AssetCheck: New page: Asset Save: BP_Enemy1
+[2024.04.17-20.54.04:139][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Enemy1.BP_Enemy1
+[2024.04.17-20.55.12:055][367]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Enemies/AnimBP_Enemy1.AnimBP_Enemy1
+[2024.04.17-20.55.12:055][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-20.55.12:055][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-20.55.31:433][131]LogDerivedDataCache: C:/Users/theal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.094 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2933 files in 4384 folders with total size 113 MiB.
+[2024.04.17-20.56.26:586][333]BlueprintLog: New page: Compile AnimBP_Enemy1
+[2024.04.17-20.56.26:609][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.17-20.56.28:427][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-20.56.28:459][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AnimBP_Enemy1" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/AnimBP_Enemy1.uasset" SILENT=true
+[2024.04.17-20.56.28:465][537]LogSavePackage: Moving output files for package: /Game/Enemies/AnimBP_Enemy1
+[2024.04.17-20.56.28:466][537]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/AnimBP_Enemy1AD75C46048A37197E01A27A1A3133A0B.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Enemies/AnimBP_Enemy1.uasset'
+[2024.04.17-20.56.28:473][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.24 sec)
+[2024.04.17-20.56.28:474][537]AssetCheck: New page: Asset Save: AnimBP_Enemy1
+[2024.04.17-20.56.28:474][537]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Enemies/AnimBP_Enemy1.AnimBP_Enemy1
+[2024.04.17-20.56.34:765][910]LogAutomationController: Ignoring very large delta of 3.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.17-20.56.40:044][440]LogViewport: Scene viewport resized to 1015x582, mode Windowed.
+[2024.04.17-20.56.40:982][440]LogViewport: Scene viewport resized to 1526x900, mode Windowed.
+[2024.04.17-20.56.42:227][551]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-20.56.42:233][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-20.56.42:233][551]PIE: New page: PIE session: Level2_Tile (Apr 17, 2024, 10:56:42 AM)
+[2024.04.17-20.56.42:264][551]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2_Tile
+[2024.04.17-20.56.42:269][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004328s)
+[2024.04.17-20.56.42:269][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2_Tile.Level2_Tile to /Game/Levels/UEDPIE_0_Level2_Tile.Level2_Tile (0.004368s)
+[2024.04.17-20.56.42:279][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.17-20.56.42:283][551]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-20.56.42:283][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-20.56.42:283][551]LogAIModule: Creating AISystem for world Level2_Tile
+[2024.04.17-20.56.42:283][551]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2024.04.17-20.56.42:283][551]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.04.17-20.56.42:283][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-20.56.42:283][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-20.56.42:283][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-20.56.42:283][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-20.56.42:283][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.17-20.56.42:283][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-20.56.42:284][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.17-20.56.42:284][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-20.56.42:284][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-20.56.42:284][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-20.56.42:284][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-20.56.42:285][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-20.56.42:300][551]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G06-BT)
+[2024.04.17-20.56.42:301][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-20.56.42:301][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-20.56.42:301][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-20.56.42:302][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.04.17-20.56.42:302][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.04.17-20.56.42:303][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.04.17-20.56.42:303][551]LogInit: FAudioDevice initialized with ID 36.
+[2024.04.17-20.56.42:303][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.04.17-20.56.42:303][551]LogAudio: Display: Audio Device (ID: 36) registered with world 'Level2_Tile'.
+[2024.04.17-20.56.42:303][551]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.17-20.56.42:306][551]LogLoad: Game class is 'GM_SideScroller_C'
+[2024.04.17-20.56.42:308][551]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_Tile.Level2_Tile up for play (max tick rate 0) at 2024.04.17-15.56.42
+[2024.04.17-20.56.42:309][551]LogWorld: Bringing up level for play took: 0.002762
+[2024.04.17-20.56.42:310][551]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.04.17-20.56.42:312][551]PIE: Server logged in
+[2024.04.17-20.56.42:313][551]PIE: Play in editor total start time 0.08 seconds.
+[2024.04.17-20.56.42:600][583]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.44:308][778]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.45:019][860]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.45:809][948]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.04.17-20.56.46:861][ 67]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:221][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:222][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:223][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:223][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:223][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:224][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:224][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:225][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:225][107]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.47:659][152]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.04.17-20.56.51:683][597]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:229][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:230][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:230][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:230][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:231][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:231][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:232][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:232][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:232][657]LogScript: Script Msg: Playing animation override...
+[2024.04.17-20.56.52:481][682]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.04.17-20.56.53:924][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-20.56.53:924][837]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_Tile
+[2024.04.17-20.56.53:925][837]LogWorld: UWorld::CleanupWorld for Level2_Tile, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-20.56.53:925][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-20.56.53:938][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-20.56.53:942][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-20.56.53:951][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-20.56.53:952][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.17-20.56.53:952][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.17-20.56.53:953][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.17-20.56.53:959][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.17-20.56.54:021][838]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.04.17-20.56.57:420][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-20.56.57:452][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_Tile" FILE="../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Levels/Level2_Tile.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.17-20.56.57:482][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.17-20.56.57:500][161]LogSavePackage: Moving output files for package: /Game/Levels/Level2_Tile
+[2024.04.17-20.56.57:500][161]LogSavePackage: Moving '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Saved/Level2_Tile713F1DE340B86F8017DB829EC036EF12.tmp' to '../../../../../../Users/theal/CSUIUC/NeonNexus/NeonNexus/Content/Levels/Level2_Tile.umap'
+[2024.04.17-20.56.57:506][161]LogFileHelpers: Saving map 'Level2_Tile' took 0.054
+[2024.04.17-20.56.57:519][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.34 sec)
+[2024.04.17-20.56.57:521][161]AssetCheck: New page: Asset Save: Level2_Tile
+[2024.04.17-20.56.57:521][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level2_Tile.Level2_Tile

@@ -11,16 +11,16 @@
 - Level-Based
 
 ## Team Members
-- Alex Yasumoto
-- Riley Morris
-- Arshveer Sachdeva
-- Sunskar Dhanker
-- Luke Albarracin
+- Alex Yasumoto (Enemies)
+- Riley Morris (Player Character)
+- Arshveer Sachdeva (Platform + Level design)
+- Luke Albarracin (UI/UX)
+- Sunskar Dhanker (Enemies)
 
 ## Game Features
 
 ### Main Character
-- Wields a laser sword for intense combat action.
+- Wields a sword for intense combat action.
 - Utilizes abilities such as sprinting, jumping, dashing, and dodging to navigate through the levels.
 
 ### Levels
@@ -31,19 +31,19 @@
 ### Enemies
 - Five distinct enemy types plus a challenging final boss.
   - Melee enemy
-  - Long-range projectile/blaster
-  - Short-range projectile
-  - Exploding enemy
+  - Turret Enemy
+  - TBD
+  - TBD
   - Final boss with various attack patterns
 
 ### Player Interactions
-- Combat enemies using the laser sword with potential upgrades for damage and knockback.
+- Combat enemies using the sword to deal with enemies.
 - Engage in platforming challenges with moving, breakable platforms, and deadly gaps.
 
 ### Collectibles and Power-ups
-- Score/Star system for player achievements.
-- Collectibles for bonus points and power-ups.
-- Health and invincibility items to aid in survival.
+- Score/Star system for player achievements. TBD
+- Collectibles for bonus points and power-ups. TBD
+- Health and invincibility items to aid in survival. TBD
 
 ### Platforming Mechanics
 - Progressive difficulty with an increase in platforming challenges.
@@ -57,10 +57,7 @@ The primary objective is to navigate through each level, defeating enemies and o
 
 ## How to Play
 - Move your character using the arrow keys or gamepad.
-- Use the attack button to wield your laser sword against enemies.
+- Use the attack button to wield your sword against enemies.
 - Utilize the jump, dash, and sprint abilities to avoid hazards and navigate the level.
-
-## Installation
-(Provide detailed steps on how to install and run the game, including any necessary software or dependencies.)
 
 Enjoy playing "Neon Nexus: Shadows of Tomorrow" and immerse yourself in the cyberpunk future!
