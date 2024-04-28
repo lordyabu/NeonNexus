@@ -1122,3 +1122,64 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.04.28-20.28.55:925][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2024.04.28-20.28.55:992][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.04.28-20.28.57:211][  5]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.28-20.29.48:938][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.28-20.29.48:949][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.28-20.29.48:949][161]PIE: New page: PIE session: SideScrollerExampleMap (Apr 28, 2024, 10:29:48 AM)
+[2024.04.28-20.29.48:949][161]LogPlayLevel: Display: Creating online subsystem for client :Context_1
+[2024.04.28-20.29.48:951][161]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.04.28-20.29.48:958][162]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2024.04.28-20.29.48:967][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009605s)
+[2024.04.28-20.29.48:967][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009711s)
+[2024.04.28-20.29.48:973][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.28-20.29.48:973][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.28-20.29.48:974][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.28-20.29.48:974][162]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2024.04.28-20.29.48:975][162]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2024.04.28-20.29.48:975][162]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.28-20.29.48:975][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.28-20.29.48:975][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.28-20.29.48:975][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.28-20.29.48:975][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.28-20.29.48:975][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.28-20.29.48:975][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.28-20.29.48:975][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.28-20.29.48:975][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.28-20.29.48:976][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.28-20.29.48:976][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.28-20.29.48:976][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.28-20.29.48:978][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.28-20.29.49:116][162]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM3 Stereo)
+[2024.04.28-20.29.49:117][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.28-20.29.49:117][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.28-20.29.49:118][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.28-20.29.49:118][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.28-20.29.49:118][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.28-20.29.49:120][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.28-20.29.49:120][162]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.28-20.29.49:120][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.28-20.29.49:120][162]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2024.04.28-20.29.49:121][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.28-20.29.49:123][162]LogLoad: Game class is 'GM_SideScroller_C'
+[2024.04.28-20.29.49:127][162]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2024.04.28-15.29.49
+[2024.04.28-20.29.49:128][162]LogWorld: Bringing up level for play took: 0.004673
+[2024.04.28-20.29.49:134][162]PIE: Server logged in
+[2024.04.28-20.29.49:135][162]PIE: Play in editor total start time 0.186 seconds.
+[2024.04.28-20.29.49:136][162]LogScript: Script Msg: Playing animation override...
+[2024.04.28-20.29.49:692][187]LogScript: Script Msg: Playing animation override...
+[2024.04.28-20.29.50:141][214]LogScript: Script Msg: Playing animation override...
+[2024.04.28-20.29.51:659][305]LogScript: Script Msg: Playing animation override...
+[2024.04.28-20.29.53:509][416]LogScript: Script Msg: Playing animation override...
+[2024.04.28-20.29.54:266][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.28-20.29.54:266][459]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2024.04.28-20.29.54:267][459]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-20.29.54:267][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.28-20.29.54:271][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.28-20.29.54:274][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.28-20.29.54:277][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.28-20.29.54:277][459]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.28-20.29.54:278][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.28-20.29.54:279][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.28-20.29.54:289][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.28-20.29.54:291][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.28-20.29.54:328][461]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.04.28-20.30.44:740][652]LogDerivedDataCache: C:/Users/theal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.153 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 891 files in 1558 folders with total size 13 MiB.
