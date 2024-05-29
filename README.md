@@ -11,11 +11,11 @@
 - Level-Based
 
 ## Team Members
-- Alex Yasumoto (Enemies)
-- Riley Morris (Player Character)
-- Arshveer Sachdeva (Platform + Level design)
-- Luke Albarracin (UI/UX)
-- Sunskar Dhanker (Enemies)
+- Alex Y (Enemies)
+- Riley M (Player Character)
+- Arshveer S (Platform + Level design)
+- Luke A (UI/UX)
+- Sunskar D (Enemies)
 
 ## Game Features
 
